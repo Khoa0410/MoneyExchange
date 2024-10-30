@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Money_exchange</string>
+    <string name="tien_nguon">Số tiền nguồn</string>
+    <string name="tien_dich">Kết quả chuyển đổi</string>
+</resources>
